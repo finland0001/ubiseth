@@ -1,2 +1,3 @@
-# ubiseth
-Old C# growtopia trainer (Shit and messy)
+# Ubiseth
+Ubiseth is Growtopia trainer written in C#.
+Its also messy af
